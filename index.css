@@ -1,0 +1,25 @@
+h1, h2, h3, h4, h5, h6 , p{
+    text-align: center;
+
+}
+
+.ortala{
+    margin-left: 45%;
+    display: inline-block;
+}
+
+.ul-ortala{
+    margin-left: 47%;
+}
+
+.red{
+    color: rgb(201, 31, 31);
+}
+
+.purple{
+    color:rgb(174, 33, 174);
+}
+
+.yellow{
+    color: rgb(153, 153, 50);
+}
